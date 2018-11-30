@@ -1,4 +1,4 @@
-#MaffiaNet Slot Machine
+# MaffiaNet Slot Machine
 
 This is some code we produced for MaffiaNet (http://www.maffianet.com) - it renders and runs our slot machine in the casino.
 
